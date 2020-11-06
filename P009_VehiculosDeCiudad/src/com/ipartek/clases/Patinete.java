@@ -13,7 +13,7 @@ public class Patinete implements Vehiculo{
 		super();
 		this.velocidadActual = 0;
 		this.estaArrancado = false;
-		// TODO Auto-generated constructor stub
+		
 	}
 
 	@Override

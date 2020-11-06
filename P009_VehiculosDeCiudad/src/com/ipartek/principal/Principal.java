@@ -72,7 +72,6 @@ public class Principal {
 		System.out.println("************************************");
 		
 		System.out.println("\n Selecciona una opcion del menu:");
-		//TODO gestionar errores
 		opcion = sc.nextLine();	
 	}
 
